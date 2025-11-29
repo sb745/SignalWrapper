@@ -289,7 +289,4 @@ __pycache__/
 *.xsd.cs
 
 # Other stuff
-*.sln
-*.slnx
 swagger.json
-SignalWrapper.csproj
