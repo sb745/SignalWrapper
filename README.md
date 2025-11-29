@@ -34,4 +34,4 @@ Console.WriteLine($"Message sent at: {response.Timestamp}");
 ```
 
 ## License
-Licensed under [WTFPL](license).
+Licensed under [WTFPL](LICENSE).
